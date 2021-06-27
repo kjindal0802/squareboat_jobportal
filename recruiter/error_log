@@ -1,0 +1,5 @@
+[27-Jun-2021 06:10:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/jpmgroup/public_html/squarejob/recruiter/index.php on line 39
+[27-Jun-2021 06:11:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/jpmgroup/public_html/squarejob/recruiter/index.php on line 39
+[27-Jun-2021 06:11:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/jpmgroup/public_html/squarejob/recruiter/index.php on line 39
+[27-Jun-2021 06:11:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/jpmgroup/public_html/squarejob/recruiter/index.php on line 39
+[27-Jun-2021 06:17:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/jpmgroup/public_html/squarejob/recruiter/index.php on line 39
