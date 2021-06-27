@@ -1,7 +1,7 @@
 <?php
 $dsn = 'mysql:dbname=jpmgroup_job;host=localhost';
-$user = 'jpmgroup';
-$password = '1qazZAQ!2wsxXSW@';
+$user = 'root';
+$password = '';
 
 try {
     $pdo = new PDO($dsn, $user, $password);
